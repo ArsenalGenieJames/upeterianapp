@@ -18,8 +18,12 @@
      padding: 10px 20px;
      cursor: pointer;
  }
-
  .login-set:hover {
      background-color: #424040;
      color: white;
+ }
+ .logcon{
+    padding-right: 0% ;
+    padding-left: 0% ;
+    margin-bottom: -20%;
  }
